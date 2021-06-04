@@ -59,7 +59,7 @@
         <version.hadoop>3.0.0-cdh6.1.0</version.hadoop>
         <version.hornetq>2.4.7.Final</version.hornetq>
         <version.htrace>4.0.1-incubating</version.htrace>
-        <version.httpcomponents-httpclient>4.5.5</version.httpcomponents-httpclient>
+        <version.httpcomponents-httpclient>4.5.13</version.httpcomponents-httpclient>
         <version.httpcomponents-httpcore>4.4.8</version.httpcomponents-httpcore>
         <version.in-memory-accumulo>1.9.2.1</version.in-memory-accumulo>
         <version.infinispan>8.2.4.Final</version.infinispan>
